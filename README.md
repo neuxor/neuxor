@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neuxor
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning for php and rust-lang
+- 🌱 I’m currently learning for js, nodejs, rust-lang and php
 
 <!---
 neuxor/neuxor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
